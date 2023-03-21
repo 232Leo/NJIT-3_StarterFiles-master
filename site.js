@@ -21,6 +21,7 @@
 */
 
 
+
 const vue_app = Vue.createApp({
       // This automatically imports your movies.json file and puts it into
       //   the variable: movies
@@ -34,6 +35,7 @@ const vue_app = Vue.createApp({
             // This holds your movies.json data.
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
+            months: ['Janurary', 'Feburary', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December',],
             title:"IMDB + Leo's Top 8 Movies",
             owner:"Leo",
             github:"https://github.com/232Leo/NJIT-3_StarterFiles-master"
@@ -41,6 +43,9 @@ const vue_app = Vue.createApp({
     },
       methods: {
             /* ADD FUNCTIONS/METHODS FOR STEP 7 HERE */
+            getMonthText(dataArray) {
+                  
+            }
       }
 })
 
