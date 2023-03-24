@@ -68,5 +68,19 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "WALL-E",
+            "iscore": 8.4,
+            "rating": "G",
+            "runtime": 98,
+            "released": [2008, 5, 27],
+            "country": "USA",
+            "posters": [""],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 1000000,
+            "dislikes": 0,
+            "posterindex": 0
       }
 ]
