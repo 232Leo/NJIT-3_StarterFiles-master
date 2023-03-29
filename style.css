@@ -5,7 +5,7 @@ body {
     padding: 0;
     width: 100%;
     overflow: auto;
-    background-image: url(img/geometry.jpg);
+    background-image: url(img/body.png);
 }
 
 /* This stylizes the header area */
@@ -21,6 +21,7 @@ body {
 .main {
     background-color: #f2f2f2;
     padding: 40px 0;
+    background-image: url(img/Main.avif);
 }
 
 /* This stylizes the poster area and poster images */
@@ -32,12 +33,13 @@ body {
     border-radius: 0;
     background-color:#dddddd;
     width: 100%;
+    background-image: url(img/thumbnail.avif);
 }
 .thumbnail img {
     margin-top: 10px;
     margin-bottom: 30px;
     padding: 5px;
-    border: 2px dashed black;
+    border: 2px  black;
     width: 100%;
 }
 
@@ -53,14 +55,14 @@ body {
 /* This stylizes your Title and Rating Text */
 .title,
 .released {
-    color: #444;
+    color: white;
     margin: 0;
     font-size: 18px;
     font-weight: 800;
 }
 .released,
 .rated {
-    color: #5d5d5d;
+    color: white;
     font-size: 14px;
     font-weight: 200;
 }
@@ -139,4 +141,12 @@ body {
 /* This makes sure your Github Button text is small */
 #github{
 	font-size: small;
+}
+
+.runtime {
+    color: white;
+}
+
+.websites {
+    color: white;
 }
