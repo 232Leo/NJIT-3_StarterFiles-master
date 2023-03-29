@@ -82,5 +82,33 @@
             "likes": 1000000,
             "dislikes": 0,
             "posterindex": 0
+      },
+      {
+            "title": "UP",
+            "iscore": 8.6,
+            "rating": "PG",
+            "runtime": 98,
+            "released": [2009, 6, 29],
+            "country": "USA",
+            "posters": ["UP1.jpg", "UP2.jpg", "UP3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1049413/",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 570,
+            "dislikes": 210,
+            "posterindex": 0
+      },
+      {
+            "title": "John Wick",
+            "iscore": 7.4,
+            "rating": "R",
+            "runtime": 101,
+            "released": [2014, 10, 24],
+            "country": "USA",
+            "posters": ["john1.jpg", "john2.jpg", "john3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2911666/",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 863,
+            "dislikes": 141,
+            "posterindex": 0
       }
 ]
